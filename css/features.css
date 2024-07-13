@@ -1,0 +1,15 @@
+.feature {
+  padding: 25px 0;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.feature_content {
+  padding-right: 20px;
+  flex-wrap: wrap;
+  width: 50%;
+}
+.feature_img img {
+  border-radius: 25px;
+  height: 500px;
+}
